@@ -1,6 +1,6 @@
 # Table of contents
 
-* [目录](README.md)
+* [简介](README.md)
 
 ## 《深入理解Java虚拟机》笔记
 

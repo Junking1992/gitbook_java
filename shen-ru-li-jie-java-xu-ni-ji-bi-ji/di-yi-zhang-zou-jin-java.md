@@ -2,4 +2,4 @@
 
 Java虚拟机在执行Java程序的过程中会把它所管理的内存划分为若干个不同的数据区域。
 
-![](F:\project\gitbook_java\images\Java_virtual_machine_runtime_data_area.jpg)
+![](\images\Java_virtual_machine_runtime_data_area.jpg)

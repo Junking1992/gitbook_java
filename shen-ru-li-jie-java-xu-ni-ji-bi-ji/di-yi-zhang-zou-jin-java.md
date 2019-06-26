@@ -4,7 +4,7 @@
 
 我们可以把Java程序设计语言、Java虚拟机、Java API类库这三部分统称为JDK（Java Development Kit）,可以把Java API类库中的Java SE API子集和Java虚拟机这两部分统称为JRE（Java Runtime Environment），JRE是支持Java程序运行的标准环境。
 
-![Java技术体系所包含的内容](../.gitbook/assets/wei-xin-tu-pian-20190625100918.png)
+![Java&#x6280;&#x672F;&#x4F53;&#x7CFB;&#x6240;&#x5305;&#x542B;&#x7684;&#x5185;&#x5BB9;](../.gitbook/assets/wei-xin-tu-pian-20190625100918.png)
 
 Java技术体系可以分为4个平台：
 

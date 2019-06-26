@@ -1,7 +1,5 @@
 # 第一章 - 走近Java
 
-[TOC]
-
 ## JDK
 
 我们可以把Java程序设计语言、Java虚拟机、Java API类库这三部分统称为JDK（Java Development Kit）,可以把Java API类库中的Java SE API子集和Java虚拟机这两部分统称为JRE（Java Runtime Environment），JRE是支持Java程序运行的标准环境。

@@ -13,14 +13,3 @@ Java技术体系可以分为4个平台：
 * **Java SE（Standard Edition）：**支持面向桌面级应用（如Windows下的应用程序）的Java平台，提供了完整的Java核心API，这个版本以前称为J2SE
 * **Java EE（Enterprise Edition）：**支持使用多层架构的企业应用（如ERP、CRM应用）的Java平台，除了提供Java SE API外，还对其做了大量的扩充并提供了相关的部署支持，这个版本以前称为J2EE。
 
-## 全文请温柔
-
-啊飒飒大
-
-## 啊飒飒大
-
-自行车自行车
-
-## 啊实打实的自行车在选
-
-自行车自行车
